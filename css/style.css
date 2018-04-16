@@ -1,0 +1,147 @@
+html {
+    background-color: #ffffff;
+}
+body {
+    font-family: 'PingFang SC',sans-serif;
+    margin: 0%;
+}
+.container{
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+header {
+    background-image: url(../img/bg.png);
+    background-position: top center;
+	background-repeat: no-repeat;
+    background-size: 1280px;
+}
+.menu{
+    font-size: 14px;
+    font-weight:border;
+}
+.menu-list-content{
+    padding-top: 20px;
+    list-style-type: none;
+    margin-left: 158px;
+    margin-top: 0%;
+    padding: 0%；  
+}
+.menu-list-content li{
+    float: left;
+    margin-right: 87px;
+}
+.logo{
+    margin-left: 27px;
+    margin-right: 18px;
+}
+.menu-list-box{
+    position: relative;
+    top: 10px;
+}
+.main-wrapper{
+
+    margin-top: 10px;
+    width: 1003;
+    margin-left: 139px;
+    padding: 0%; 
+    display: grid; 
+    margin-bottom: 37px;   
+}
+
+.item-card{
+    float: left;
+    margin-right: 37px;
+    width: 223px;
+    height: 319px;
+    margin-top: 27px;
+    background: white;
+    text-decoration: none; 
+    color: #444; 
+    box-shadow: 0px 0px 10px rgba(152,152,152,0.35); 
+    display: flex; 
+    flex-direction: column; 
+    min-height: 100%;  
+}
+.card-text-wrap{
+    padding: 13px;
+    margin-left: 7px;
+}
+h2{
+    margin: 0px;
+    font-size: 24px;
+    font-weight:border;
+}
+h5{
+    margin: 0;
+    font-size: 14px;
+    font-weight:bord;
+    color:#2d80eb;
+}
+.break{
+    margin-left: auto;
+    margin-right: auto;
+    width: 87px;
+    height: 62px;
+}
+.bg2{
+    width: 1280px;
+    height: 169px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 46px;
+}
+.back{
+    width: 45px;
+    height: 52px;
+    float: left;
+    position: relative;
+    bottom: 120px;
+    box-shadow: 0px 0px 10px rgba(152,152,152,0.25); 
+}
+.front{
+    width: 45px;
+    height: 52px;
+    float: right;
+    position: relative;
+    bottom: 120px;
+    box-shadow: 0px 0px 10px rgba(152,152,152,0.25); 
+}
+.slide p{
+    font-size: 30px;
+    font-weight: 900;
+    color: #6c7360;
+    float: initial;
+    position: relative;
+    bottom: 160px;
+}
+.buttom{
+    list-style-type: none;
+    margin-top: 0%;
+    padding: 0;
+    position: relative;
+    left: 467px;
+    bottom: 95px;
+}
+.buttom-box{
+    float: left;
+    margin-right: 61px;
+}
+.contact{
+    width: 1280px;
+    height: 440px;
+    background-color: #f0ebdc;
+    padding-top: 30px;
+}
+footer{
+    width: 1280px;
+    height: 84px;
+    background-color: #959e86;
+    padding-top: 40px;
+}
+footer p{
+    font-size: 14px;
+    font-weight: normal;
+    color: white;
+}
